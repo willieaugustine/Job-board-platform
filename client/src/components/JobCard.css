@@ -1,0 +1,30 @@
+/* client/src/components/JobCard.css */
+.job-card {
+    background-color: #ffffff;
+    border: 1px solid #e5e7eb;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .job-card:hover {
+    transform: translateY(-4px);
+  }
+  
+  .job-card h3 {
+    font-size: 1.2em;
+    color: #1d1e20;
+  }
+  
+  .job-card p {
+    color: #4b5563;
+  }
+  
+  .job-card a {
+    text-decoration: none;
+    color: #3b82f6;
+    font-weight: bold;
+  }
+  

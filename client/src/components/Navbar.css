@@ -1,0 +1,23 @@
+/* client/src/components/Navbar.css */
+.navbar {
+    background-color: #1d1e20;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  .navbar li a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar li a:hover {
+    color: #d1d5db;
+  }
+  

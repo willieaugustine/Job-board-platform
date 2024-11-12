@@ -1,0 +1,14 @@
+/* client/src/pages/Register.css */
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .error {
+    color: #ef4444;
+    font-size: 0.875em;
+    margin-top: 5px;
+  }
+  

@@ -1,0 +1,14 @@
+/* client/src/pages/Jobs.css */
+.jobs-page {
+    padding: 20px;
+  }
+  
+  .jobs-page h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .jobs-page p {
+    color: #6b7280;
+  }
+  
